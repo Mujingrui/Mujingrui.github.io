@@ -1,8 +1,14 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Jingrui(Murphy) Mu
+position: Statistics Ph.D. Student 
+affiliation: McGill University
+subaffiliation: Department of Mathematics and Statistics
+affiliation_link: https://www.mcgill.ca
+subaffiliation_link: https://www.mcgill.ca/mathstat/
+email: jingrui.mu@mail.mcgill.ca
+address: 805 Sherbrooke St W, Montreal, Quebec, H3A 2K6
+# address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +18,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.ca/citations?user=qfrpAKoAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/Mujingrui
+linkedin: https://www.linkedin.com/in/jingrui-murphy-mu-0b40a2194/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
