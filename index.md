@@ -8,7 +8,7 @@ I am a Statistics Ph.D Student at <a href="https://www.mcgill.ca" target="_blank
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Distributed Learning:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
