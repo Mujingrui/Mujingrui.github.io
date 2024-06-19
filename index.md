@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Statistics Ph.D Student at <a href="https://www.mcgill.ca/" target="_blank"> McGill University</a>. 
+I am a Statistics Ph.D Student at <a href="https://www.mcgill.ca" target="_blank"> McGill University</a>. 
 
 ## Research Interests
 
