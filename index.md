@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Statistics Ph.D Student at <a href="https://www.mcgill.ca" target="_blank"> McGill University</a>. 
+I am a Statistics Ph.D Student at <a href="https://www.mcgill.ca" target="_blank"> McGill University</a>, supervised by Prof.<a href="https://scholar.google.ca/citations?user=JEqpO-MAAAAJ&hl=en" target="_blank"> Abbas Khalili</a> and co-supervised by Prof.<a href="https://scholar.google.ca/citations?hl=en&user=NRlAymQAAAAJ" target="_blank"> David Stephens</a>. 
 
 ## Research Interests
 
