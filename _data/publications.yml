@@ -1,13 +1,13 @@
 main:
 
   - title: COVID-19 Data Analysis Using Bayesian Models and Nonparametric Geostatistical Models
-    authors: <strong>Jingrui Mu*</strong>, Mayer Alvo* (*Corresponding authors)
+    authors: <strong>Jingrui Mu</strong>, <strong>Mayer Alvo*</strong>(*Corresponding authors)
     journal_short: Mathematics
     journal: <strong>Mathematics</strong>, 2023.
     pdf: https://www.mdpi.com/2227-7390/11/6/1359
     # code: https://github.com/Mujingrui
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_example_2.png
     notes: Published
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
