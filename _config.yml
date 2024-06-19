@@ -27,7 +27,7 @@ linkedin: https://www.linkedin.com/in/jingrui-murphy-mu-0b40a2194/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile_picture.png
+profile_picture: ./assets/img/profile_picture.PNG
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
