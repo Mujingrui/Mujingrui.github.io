@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Statistics Ph.D Student in McGill University. 
 
 ## Research Interests
 
